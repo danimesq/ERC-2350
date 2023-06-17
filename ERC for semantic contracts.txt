@@ -1,0 +1,3 @@
+Insp:
+https://eips.ethereum.org/EIPS/eip-4883
+https://ethereum-magicians.org/t/eip-4883-composable-svg-nft/8765
