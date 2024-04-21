@@ -1,22 +1,37 @@
-This folder: /usr/bin
+This folder: /home/daniella/Desktop/Tasks/4.Huge/Solidity/ERCs/ERC-2350 Semantic
 
+folderstamp version: r5
+Method: Non-recursive
+Current Git Branch: main
+First Git Remote: origin - URL: https://github.com/danimesq/ERC-2350.git
+
+  File: ./[ChatGPT]Brainstorm-2.html
+  Size: 58017     	Blocks: 120        IO Block: 4096   regular file
+Device: 8,70	Inode: 9589901     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-02-25 08:42:29.488064741 -0300
+Modify: 2023-04-18 19:55:06.602433900 -0300
+Change: 2023-04-30 00:06:58.408969738 -0300
+ Birth: 2023-04-30 00:06:58.408969738 -0300
+IPFS hash: Qmc32TZcdHg7FZdFerRWHs5RB9qbusxVU83aww13wir9Fw
+------------------------------
+  File: ./[ChatGPT]Brainstorm.html
+  Size: 33339     	Blocks: 72         IO Block: 4096   regular file
+Device: 8,70	Inode: 9589902     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-02-25 08:42:31.987955893 -0300
+Modify: 2023-04-18 16:41:41.887567600 -0300
+Change: 2023-04-30 00:06:58.408969738 -0300
+ Birth: 2023-04-30 00:06:58.408969738 -0300
+IPFS hash: QmXWpn8mEQCWJafw59Vp1MQXQnW2FG2pgBjfJ3KCQBapB8
+------------------------------
   File: ./ERC for semantic contracts.txt
   Size: 112       	Blocks: 8          IO Block: 4096   regular file
-Device: 8,39	Inode: 1595456     Links: 1
+Device: 8,70	Inode: 9589900     Links: 1
 Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
-Access: 2023-04-15 14:55:53.083168815 -0300
+Access: 2024-04-20 23:53:10.040324081 -0300
 Modify: 2022-12-07 02:19:54.007420000 -0300
-Change: 2023-03-24 10:29:57.877520079 -0300
- Birth: 2023-03-07 22:49:32.087908210 -0300
+Change: 2023-04-30 00:06:58.408969738 -0300
+ Birth: 2023-04-30 00:06:58.408969738 -0300
 IPFS hash: QmXjbbzWvMY4ExvXTHU4RyQ8GSp6jLCMxf9jSNcvGEm1BR
-------------------------------
-  File: ./.folderstamp
-  Size: 510       	Blocks: 8          IO Block: 4096   regular file
-Device: 8,39	Inode: 1626635     Links: 1
-Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
-Access: 2023-04-18 16:37:07.376413797 -0300
-Modify: 2023-04-18 16:37:07.456417845 -0300
-Change: 2023-04-18 16:37:07.456417845 -0300
- Birth: 2023-04-18 16:37:07.376413797 -0300
-IPFS hash: Qmev4qVMSaKHdKK8EgNRt285YLVrLqXp9qR66gnD83KL6e
 ------------------------------

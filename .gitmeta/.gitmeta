@@ -1,0 +1,35 @@
+commit QmQNv19NVCqzW6C7KpHokAhBjmB57o22eRSN31fbmvKKWC
+Branch: main
+Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
+Signature: 1d0a5ba1b3973e6b805fc93e2b9903bbfbf7a1261b35260d9b04a592cf51ed0640a58adc83df6915182a35adbf029b44459c94d8570ce60a4cb67a5dac540a3601
+
+------------------------------
+
+Commit CID if including git's SHA1: QmS8meUfTtmGgUoqgu1UCbeDKKmJyG72JCMobwDzHvWE5b
+Commit CID if containing only file hashes: QmacFXWz8fXXTjNLdhaeyQMNHrpRmq7tbgYgVmu8ULxnqe
+
+------------------------------
+
+.gitmeta version: r8
+Local folder: /home/daniella/Desktop/Tasks/4.Huge/Solidity/ERCs/ERC-2350 Semantic
+Remote Name: origin
+Remote URL: https://github.com/danimesq/ERC-2350.git
+
+------------------------------
+
+chown -h 1000:1000 '.folderstamp1'
+chmod 0664 '.folderstamp1'
+/usr/bin/touch -hcmd "2024-04-20 23:53:35.7537029740 -0300" '.folderstamp1'
+/usr/bin/touch -hcad "2024-04-20 23:53:47.5063262540 -0300" '.folderstamp1'
+chown -h 1000:1000 '.folderstamp2'
+chmod 0664 '.folderstamp2'
+/usr/bin/touch -hcmd "2024-04-20 23:53:47.5783300600 -0300" '.folderstamp2'
+/usr/bin/touch -hcad "2024-04-20 23:54:13.9637140510 -0300" '.folderstamp2'
+chown -h 1000:1000 '.folderstamp2.log.html5'
+chmod 0664 '.folderstamp2.log.html5'
+/usr/bin/touch -hcmd "2024-04-20 23:54:06.1953087240 -0300" '.folderstamp2.log.html5'
+/usr/bin/touch -hcad "2024-04-20 23:54:13.9637140510 -0300" '.folderstamp2.log.html5'
+chown -h 1000:1000 '.gitmeta'
+chmod 0775 '.gitmeta'
+/usr/bin/touch -hcmd "2024-04-20 23:55:38.0719955100 -0300" '.gitmeta'
+/usr/bin/touch -hcad "2024-04-20 23:55:40.4121119960 -0300" '.gitmeta'

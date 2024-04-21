@@ -1,8 +1,0 @@
-chown -h 1000:1000 './.gitmeta'
-chmod 0664 './.gitmeta'
-/usr/bin/touch -hcmd "2023-06-17 17:24:59.5837306810 -0300" './.gitmeta'
-/usr/bin/touch -hcad "2023-06-17 17:24:26.7958475400 -0300" './.gitmeta'
-chown -h 1000:1000 './[ChatGPT]Brainstorm-2.html'
-chmod 0664 './[ChatGPT]Brainstorm-2.html'
-/usr/bin/touch -hcmd "2023-04-18 19:55:06.6024339000 -0300" './[ChatGPT]Brainstorm-2.html'
-/usr/bin/touch -hcad "2023-06-17 17:22:59.7504605870 -0300" './[ChatGPT]Brainstorm-2.html'
